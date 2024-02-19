@@ -2,8 +2,8 @@
 
 
 # Python - Essentials
-Learn pythong and create a simple add that takes in github username and returns the list of repositories
-- Run the final app
+Learn pythong and create a simple app that takes in github username and returns the list of repositories sample: https://qasinow.pythonanywhere.com/
+- Run the final app 
   - clone repo
   - `cd python`
   - `pip install flask`
